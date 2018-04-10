@@ -1,0 +1,12 @@
+{
+  "env": {
+    "jasmine": true
+  },
+  "globals": {
+    "fuck": true
+  },
+  "plugins": ["jasmine"],
+  "rules": {
+    "jasmine/no-focused-tests": 2
+  }
+}
